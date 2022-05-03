@@ -1,2 +1,2 @@
 # juego-xd
-<h1>Juego creado co Html-Css-JavaScript</h1>
+<h1>Juego creado con Html-Css-JavaScript</h1>
